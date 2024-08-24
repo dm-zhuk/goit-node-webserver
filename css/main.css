@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    color: dodgerblue;
+}
+
+.image {
+    width: 450px;
+}
+
+.js-class {
+    margin-top: 10px;
+    font-variant: small-caps;
+}
